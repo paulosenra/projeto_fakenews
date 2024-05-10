@@ -2,7 +2,7 @@
 Fiz um projeto para o Desafio de Imersão de IA onde fiz um chatbot que detectar se uma notícia é fake news ou não
 
 
-Este é um chatbot Python simples projetado para combater a desinformação, identificando potenciais notícias falsas./n
+Este é um chatbot Python simples projetado para combater a desinformação, identificando potenciais notícias falsas.
 Funcionalidades:
 Verifica se uma notícia contém frases comumente associadas a teorias da conspiração ou informações falsas, 
 Pesquisa por notícias relacionadas em fontes confiáveis, incluindo:
